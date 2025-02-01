@@ -397,8 +397,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-point-right-open-post-doctoral-position-in-flexibility-modeling-of-data-center-loads",
+          title: ':point_right: Open Post-doctoral position in flexibility modeling of data-center loads',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
