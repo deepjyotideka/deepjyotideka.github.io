@@ -5,6 +5,30 @@
       value: Deepjyoti Deka 
     - name: Languages
       value: English
+      
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Scientist
+      institution: MIT Energy Initiative, MIT
+      year: 2024-present
+      description:
+        - Working on new data-driven approaches to decarbonization of electric grid
+    - title: Staff Scientist 3
+      institution: Theoretical (T) Division, Los Alamos National Laboratory, USA
+      year: 2022-2024
+      description:
+        - Led projects on estimation in cyber-physical systems and optimization in infrastructure networks
+        - <b> Supervision<\b> 3 post-docs, 25 summer students
+    - title: Staff Scientist 2
+      institution: Theoretical (T) Division, Los Alamos National Laboratory, USA
+      year: 2018-2022
+    - title: Post-Doctoral Associate
+      institution: Center for Nonlinear Studies (CNLS), Los Alamos National Laboratory, USA
+      year: 2015-2018
+      description:
+        - Designed topology learning and control algorithms for distribution grids
+      
 
 - title: Education
   type: time_table
@@ -14,69 +38,38 @@
       year: 2015
       description:
         - Electrical and Computer Engineering
+        - <b> Dissertation:</b> Analysis of the power grid, structure and secure operations
     - title: MS
       institution: University of Texas at Austin, USA
       year: 2011
       description:
         - Electrical and Computer Engineering
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Research Scientist
-      institution: MIT Energy Initiative, MIT
-      year: 2024-present
+    - title: B.Tech
+      institution: IIT Guwahati, India
+      year: 2009
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Staff Scientist 3
-      institution: Theoretical (T) Division, Los Alamos National Laboratory, USA
-      year: 2022-2024
-      description:
-        - Description 1.
-        - Description 2.
+        - Electronics and Communication Engineering
 
-    - title: Staff Scientist 2
-      institution: Theoretical (T) Division, Los Alamos National Laboratory, USA
-      year: 2018-2022
-
-    - title: Post-Doctoral Associate
-      institution: Center for Nonlinear Studies (CNLS), Los Alamos National Laboratory, USA
-      year: 2015-2018
-      description:
-      
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 1921
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
+        - dddddd
     - year: 2029
       items:
         - Max Planck Medal
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Power Grids
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Machine Learning aided Optimization for grid decarbonization  
+        - Efficient sensing for topology and parameter estimation in distribution grids. 
+        - Fair and reliable coordination of flexible grid resources 
+    - title: Machine Learning
       items:
-        - Description 1.
-        - Description 2.
-
+        - Statistical Machine Learning in Networked Dynamical Systems 
+        - Security of Cyber-Physical Systems
