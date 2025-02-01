@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>MIT Energy Initiative</a>. Research Scientist
+subtitle: Research Scientist, <a href='#'>MIT Energy Initiative</a>. 
 
 profile:
   align: right
   image: deka_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 MIT Energy Initiative </p>
-    <p>123 50 Ames Street</p>
+    <p>Building E19</p>
+    <p>50 Ames Street</p>
     <p>Cambridge, MA 02143</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
