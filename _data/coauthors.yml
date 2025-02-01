@@ -1,14 +1,14 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Vishwanath":
+  - firstname: ["Shriram", "S."]
+    url: https://www.ece.utexas.edu/people/faculty/sriram-vishwanath
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Chertkov":
+  - firstname: ["Michael", "M."]
+    url: https://sites.google.com/site/mchertkov/michael-misha-chertkov
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Backhaus":
+  - firstname: ["Scott", "S."]
+    url: https://www.linkedin.com/in/scott-backhaus-6b0231141/
 
 "bach":
   - firstname: ["Johann Sebastian", "J. S."]
@@ -17,17 +17,17 @@
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Salapaka":
+  - firstname: ["Murti", "M.", "M.V.", "MV"]
+    url: https://cse.umn.edu/ece/murti-salapaka
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Sundar":
+  - firstname: ["Kaarthik", "K."]
+    url: https://kaarthiksundar.github.io
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Misra":
+  - firstname: ["Sidhant", "S."]
+    url: https://sidhantmisra.github.io/
 
 "planck":
   - firstname: ["Max"]
