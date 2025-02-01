@@ -2,21 +2,21 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Deepjyoti Deka
     - name: Date of Birth
-      value: 14th March 1879
+      value: 
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Texas at Austin, USA
+      year: 2015
       description:
-        - Description 1.
-        - Description 2.
+        - Electrical and Computer Engineering
+        - Analysis of the power grid structure and secure operations. 
         - title: Description 3.
           contents:
             - Sub-description 1.
