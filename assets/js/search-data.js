@@ -389,12 +389,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-point-right-open-post-doctoral-position-in-flexibility-modeling-of-data-center-loads",
+    },{id: "news-point-right-open-post-doctoral-position-in-flexibility-modeling-of-data-center-loads",
           title: ':point_right: Open Post-doctoral position in flexibility modeling of data-center loads',
           description: "",
           section: "News",},{id: "projects-project-1",
