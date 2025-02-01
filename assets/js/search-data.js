@@ -392,12 +392,7 @@ ninja.data = [{
     },{id: "news-point-right-open-post-doctoral-position-in-flexibility-modeling-of-data-center-loads",
           title: ':point_right: Open Post-doctoral position in flexibility modeling of data-center loads',
           description: "",
-          section: "News",},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
-            },},{
+          section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
