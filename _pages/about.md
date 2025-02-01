@@ -9,7 +9,7 @@ profile:
   image: deka_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Building E19</p>
+    <p>Building E19,</p>
     <p>50 Ames Street</p>
     <p>Cambridge, MA 02143</p>
 
