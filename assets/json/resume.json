@@ -68,8 +68,7 @@
       "studyType": "PhD",
       "startDate": "2011-12-01",
       "endDate": "2015-08-01",
-      "score": "",
-      "Dissertation": ["Analysis of the power grid: structure and secure operations"]
+      "Dissertation": ["Dissertation: Analysis of the power grid, structure and secure operations"]
     },
     {
       "institution": "University of Texas at Austin",
@@ -79,7 +78,6 @@
       "studyType": "MS",
       "startDate": "2009-08-01",
       "endDate": "2011-11-30",
-      "score": "",
     }
   ],
   "awards": [
