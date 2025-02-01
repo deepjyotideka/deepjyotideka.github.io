@@ -13,13 +13,13 @@
       institution: MIT Energy Initiative, MIT
       year: 2024-present
       description:
-        - Working on new data-driven approaches to decarbonization of electric grid
+        - Working on data-driven approaches for decarbonization of electric grid
     - title: Staff Scientist 3
       institution: Theoretical (T) Division, Los Alamos National Laboratory, USA
       year: 2022-2024
       description:
         - Led projects on estimation in cyber-physical systems and optimization in infrastructure networks
-        - <b> Supervision<\b> 3 post-docs, 25 summer students
+        - <b> Mentoring:</b> 3 post-docs, 25 students
     - title: Staff Scientist 2
       institution: Theoretical (T) Division, Los Alamos National Laboratory, USA
       year: 2018-2022
@@ -38,7 +38,7 @@
       year: 2015
       description:
         - Electrical and Computer Engineering
-        - <b> Dissertation:</b> Analysis of the power grid, structure and secure operations
+        - <b> Dissertation:</b> Analysis of the power grid; structure and secure operations
     - title: MS
       institution: University of Texas at Austin, USA
       year: 2011
@@ -54,13 +54,19 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items:
-        - dddddd
-    - year: 2029
+        - Young Alumni Achiever Award, IIT Guwahati, India
+    - year: 2021
       items:
-        - Max Planck Medal
-
+        - Best Paper on ML Innovation at ICML Workshop on Tackling Climate Change with Machine Learning
+    - year: 2015
+      items:
+        - Student Leadership Award by School of Engineering, University of Texas at Austin
+        - Best Conference Papers on Cyber Security, Stability, and Protection at IEEE PES General Meeting
+    - year: 2009
+      items:
+        - Institute Silver Medal for best graduating student in Electronics and Communication Engineering at IIT Guwahati.
 - title: Research Interests
   type: nested_list
   contents:
