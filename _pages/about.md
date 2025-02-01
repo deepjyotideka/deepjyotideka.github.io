@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist, <a href='#'>MIT Energy Initiative</a>. 
+subtitle: Research Scientist, <a href='https://energy.mit.edu/'>MIT Energy Initiative</a>. 
 
 profile:
   align: right
