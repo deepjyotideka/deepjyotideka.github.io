@@ -1,8 +1,8 @@
-- title: General Information
+- title: General Information #dont edit this.. edit json file
   type: map
   contents:
     - name: Full Name
-      value: Deepjyoti Deka
+      value: Deepjyoti Deka 
     - name: Languages
       value: English
 
