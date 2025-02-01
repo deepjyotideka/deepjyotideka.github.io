@@ -1,4 +1,4 @@
-- title: General Information #dont edit this.. edit json file
+- title: General Information
   type: map
   contents:
     - name: Full Name
@@ -14,17 +14,11 @@
       year: 2015
       description:
         - Electrical and Computer Engineering
-        - Analysis of the power grid structure and secure operations. 
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: MS
       institution: University of Texas at Austin, USA
       year: 2011
       description:
-        - Description 1.
-        - Description 2.
+        - Electrical and Computer Engineering
 
 - title: Experience
   type: time_table
