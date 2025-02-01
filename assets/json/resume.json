@@ -1,18 +1,16 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Deepjyoti Deka",
+    "label": "Research Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "deepj87@mit.edu",
+    "url": "https://deepjyotideka.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "50 Ames Street",
+      "postalCode": "02139",
+      "city": "Somerville",
+      "countryCode": "US"
     },
     "profiles": [
       {
@@ -24,38 +22,64 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
+      "name": "MIT Energy Initiative, MIT",
+      "position": "Research Scientist",
+      "url": "https://energy.mit.edu/",
+      "startDate": "2024-08-01",
       "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "summary": "Working on new data-driven approaches to decarbonization of electric grid",
+      "highlights": [""]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Theoretical (T) Division, Los Alamos National Laboratory",
+      "position": "Staff Scientist 3",
+      "url": "https://www.lanl.gov/engage/organizations/aldsct/theoretical",
+      "startDate": "2022-06-01",
+      "endDate": "2024-07-31",
+      "summary": "Led projects on estimation in cyber-physical systems and optimization in infrastructure networks",
+      "highlights": ["3 post-docs, 25+ students"]
+    },
+    {
+      "name": "Theoretical (T) Division, Los Alamos National Laboratory",
+      "position": "Staff Scientist 2",
+      "url": "https://www.lanl.gov/engage/organizations/aldsct/theoretical",
+      "startDate": "2018-09-15",
+      "endDate": "2022-05-31",
+      "summary": "",
+      "highlights": [""]
+    },
+    {
+      "name": "Center for Nonlinear Studies (CNLS), Los Alamos National Laboratory",
+      "position": "Post-Doctoral Associate",
+      "url": "https://cnls.lanl.gov/external/",
+      "startDate": "2015-12-01",
+      "endDate": "2018-09-14",
+      "summary": "Designed topology learning and control algorithms for distribution grids",
+      "highlights": [""]
     }
   ],
+  
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Texas at Austin",
+      "location": "Texas, USA",
+      "url": "https://www.ece.utexas.edu/",
+      "area": "Electrical and Computer Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2011-12-01",
+      "endDate": "2015-08-01",
+      "score": "",
+      "Dissertation": ["Analysis of the power grid: structure and secure operations"]
+    },
+    {
+      "institution": "University of Texas at Austin",
+      "location": "Texas, USA",
+      "url": "https://www.ece.utexas.edu/",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "MS",
+      "startDate": "2009-08-01",
+      "endDate": "2011-11-30",
+      "score": "",
     }
   ],
   "awards": [
