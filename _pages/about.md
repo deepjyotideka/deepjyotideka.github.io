@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Building E19, MIT</p>
     <p>Cambridge, MA 02142</p>
-    <p>[email](mailto:deepj87@mit.edu)</p>
+    <p><a href='mailto:deepj87@mit.edu'>email</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
