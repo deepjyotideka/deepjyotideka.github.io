@@ -14,3 +14,4 @@ nav_order: 7
   #   content: about_einstein.md
   #   image_circular: false # crops the image to make it circular
 ---
+I have had the pleasure of working and learning from several amazing researchers. Some of my current collaborators are.
