@@ -32,10 +32,10 @@ ninja.data = [{
           },
         },{id: "nav-collaborators",
           title: "Collaborators",
-          description: "Current and Past",
+          description: "Current and former collaborations",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Collaborators/";
+            window.location.href = "/collaborators/";
           },
         },{id: "post-a-post-with-image-galleries",
       
