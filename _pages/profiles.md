@@ -1,12 +1,12 @@
 ---
-layout: profiles
+layout: pages #profiles
 permalink: /Collaborators/
 title: Collaborators
 description: Current and Past
 nav: true
 nav_order: 7
 
-profiles:
+# profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   # - align: right
