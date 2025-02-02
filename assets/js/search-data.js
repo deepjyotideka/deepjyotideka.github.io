@@ -345,6 +345,17 @@ ninja.data = [{
           window.location.href = "/blog/2015/math/";
         
       },
+    },{id: "post-a-post-with-code",
+      
+        title: "a post with code",
+      
+      description: "an example of a blog post with some code",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2015/code/";
+        
+      },
     },{id: "news-point-right-open-post-doctoral-position-in-flexibility-modeling-of-data-center-loads",
           title: ':point_right: Open Post-doctoral position in flexibility modeling of data-center loads',
           description: "",
