@@ -8,14 +8,7 @@
 
 "Backhaus":
   - firstname: ["Scott", "S."]
-    url: https://www.linkedin.com/in/scott-backhaus-6b0231141/
-
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+    url: https://www.linkedin.com/in/scott-backhaus-6b0231141
 
 "Salapaka":
   - firstname: ["Murti", "M.", "M.V.", "MV"]
@@ -27,7 +20,7 @@
 
 "Misra":
   - firstname: ["Sidhant", "S."]
-    url: https://sidhantmisra.github.io/
+    url: https://sidhantmisra.github.io
 
 "planck":
   - firstname: ["Max"]
