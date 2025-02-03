@@ -242,7 +242,8 @@ scholar:
   details_link: Details
 
   query: "@*"
-  # group_by: type, year
+  group_by: type, year 
+  group_order: ascending, descending
   sort_by: year, month
   order: descending, descending
   type_order: [unpublished, article, incollections, inproceedings, techreport]
