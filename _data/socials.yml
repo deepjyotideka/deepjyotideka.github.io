@@ -46,8 +46,7 @@ scholar_userid: gv6Jmj0AAAAJ # your Google Scholar ID
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: https://pbs.twimg.com/profile_images/697149679759441921/UK7eLd0O_400x400.png
-  # https://energy.mit.edu/wp-content/uploads/2016/06/mitei-logo-full.png
+  logo: https://upload.wikimedia.org/wikipedia/commons/f/f5/MIT-social-media-logo-white.png
   # https://energy.mit.edu/wp-content/uploads/2024/08/Deepjyoti_Deka_headshot-e1723462694221-150x200.jpg
   title: Official Page
   url: https://energy.mit.edu/profile/deepjyoti-deka/
