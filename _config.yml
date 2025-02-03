@@ -246,7 +246,7 @@ scholar:
   group_order: ascending, descending
   sort_by: year, month
   order: descending, descending
-  type_order: [unpublished, article, incollections, inproceedings, techreport]
+  type_order: [unpublished, article, incollection, inproceedings, techreport]
   type_names: {unpublished: Pre-Prints}
 
 # Display different badges withs stats for your publications
