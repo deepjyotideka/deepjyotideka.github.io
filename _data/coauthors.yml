@@ -1,27 +1,31 @@
-"Vishwanath":
+"vishwanath":
   - firstname: ["Sriram", "S."]
     url: https://www.ece.utexas.edu/people/faculty/sriram-vishwanath
 
-"Chertkov":
+"chertkov":
   - firstname: ["Michael", "M."]
     url: https://sites.google.com/site/mchertkov/michael-misha-chertkov
 
-"Backhaus":
+"backhaus":
   - firstname: ["Scott", "S."]
     url: https://www.linkedin.com/in/scott-backhaus-6b0231141
 
-"Salapaka":
-  - firstname: ["Murti", "M.", "M.V.", "MV"]
+"salapaka":
+  - firstname: ["Murti", "M.", "M.V.", "Murti V"]
     url: https://cse.umn.edu/ece/murti-salapaka
 
-"Sundar":
+"sundar":
   - firstname: ["Kaarthik", "K."]
     url: https://kaarthiksundar.github.io
 
-"Misra":
+"misra":
   - firstname: ["Sidhant", "S."]
     url: https://sidhantmisra.github.io
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"nagarajan":
+  - firstname: ["Harsha", "H."]
+    url: https://harshangrjn.github.io/
+
+"dvorkin":
+  - firstname: ["Yury", "Y."]
+    url: https://engineering.jhu.edu/faculty/uzi-yury-dvorkin/
