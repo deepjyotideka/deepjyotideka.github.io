@@ -37,8 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/collaborators/";
           },
-        },{id: "news-point-right-open-post-doctoral-position-in-flexibility-modeling-of-data-center-loads",
-          title: ':point_right: Open Post-doctoral position in flexibility modeling of data-center loads',
+        },{id: "news-point-right-open-post-doctoral-position-in-planning-and-stability-studies-for-data-center-loads-point-right-open-post-doctoral-position-in-agentic-ai-workflows-for-power-grids-and-dynamical-systems",
+          title: ':point_right: Open Post-doctoral position in planning and stability studies for data-center loads. :point_right:...',
           description: "",
           section: "News",},{
       id: 'light-theme',
