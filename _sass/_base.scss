@@ -807,7 +807,7 @@ footer.sticky-bottom {
 
         &.links-left {
           display: grid;
-          grid-template-columns: repeat(2, max-content);
+          grid-template-columns: max-content;
           gap: 0.18rem;
           align-items: start;
           justify-content: start;
