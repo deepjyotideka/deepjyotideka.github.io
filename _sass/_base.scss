@@ -769,9 +769,13 @@ footer.sticky-bottom {
       .title {
         font-weight: bolder;
         line-height: 1.45;
+        margin-bottom: 0;
       }
 
       .author {
+        margin-top: 0;
+        margin-bottom: 0;
+
         a {
           border-bottom: 1px dashed var(--global-theme-color);
 
@@ -799,7 +803,7 @@ footer.sticky-bottom {
       }
 
       .links {
-        margin-top: 0.35rem;
+        margin-top: 0;
 
         a.btn {
           font-size: 0.8rem;
@@ -820,6 +824,11 @@ footer.sticky-bottom {
         a.award.btn {
           border-color: var(--global-highlight-color);
         }
+      }
+
+      .periodical {
+        margin-top: 0;
+        margin-bottom: 0;
       }
 
       .badges {
