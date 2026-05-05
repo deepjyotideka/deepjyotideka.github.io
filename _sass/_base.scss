@@ -806,11 +806,11 @@ footer.sticky-bottom {
         margin-top: 0;
 
         &.links-left {
-          display: grid;
-          grid-template-columns: max-content;
+          display: flex;
+          flex-direction: column;
           gap: 0.18rem;
-          align-items: start;
-          justify-content: start;
+          align-items: flex-start;
+          justify-content: flex-start;
         }
 
         a.btn {
