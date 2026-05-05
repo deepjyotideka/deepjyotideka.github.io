@@ -67,15 +67,3 @@
     - year: 2009
       items:
         - Institute Silver Medal for best graduating student in Electronics and Communication Engineering at IIT Guwahati.
-- title: Research Interests
-  type: nested_list
-  contents:
-    - title: Power Grids
-      items:
-        - Machine Learning aided Optimization for grid decarbonization  
-        - Efficient sensing for topology and parameter estimation in distribution grids. 
-        - Fair and reliable coordination of flexible grid resources 
-    - title: Machine Learning
-      items:
-        - Statistical Machine Learning in Networked Dynamical Systems 
-        - Security of Cyber-Physical Systems

@@ -23,6 +23,16 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
+body {
+  font-size: 0.97rem;
+  line-height: 1.6;
+}
+
+p,
+li {
+  line-height: 1.65;
+}
+
 table {
   td,
   th {
@@ -696,6 +706,7 @@ footer.sticky-bottom {
 
 .publications {
   margin-top: 2rem;
+  font-size: 0.94rem;
 
   h1 {
     color: var(--global-theme-color);
@@ -727,7 +738,7 @@ footer.sticky-bottom {
     margin-top: 0;
 
     li {
-      margin-bottom: 1rem;
+      margin-bottom: 1.25rem;
 
       .preview {
       }
@@ -757,6 +768,7 @@ footer.sticky-bottom {
 
       .title {
         font-weight: bolder;
+        line-height: 1.45;
       }
 
       .author {
@@ -787,14 +799,18 @@ footer.sticky-bottom {
       }
 
       .links {
+        margin-top: 0.35rem;
+
         a.btn {
+          font-size: 0.8rem;
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
+          padding-left: 0.65rem;
+          padding-right: 0.65rem;
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           margin-left: 0;
+          margin-bottom: 0.35rem;
 
           &:hover {
             color: var(--global-theme-color);
