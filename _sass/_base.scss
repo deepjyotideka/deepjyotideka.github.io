@@ -807,22 +807,24 @@ footer.sticky-bottom {
 
         &.links-left {
           display: grid;
-          grid-template-columns: repeat(2, minmax(0, 1fr));
+          grid-template-columns: repeat(2, max-content);
           gap: 0.18rem;
           align-items: start;
+          justify-content: start;
         }
 
         a.btn {
-          font-size: 0.72rem;
+          font-size: 0.68rem;
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
-          padding-left: 0.3rem;
-          padding-right: 0.3rem;
-          padding-top: 0.14rem;
-          padding-bottom: 0.14rem;
-          line-height: 1.1;
+          padding-left: 0.24rem;
+          padding-right: 0.24rem;
+          padding-top: 0.1rem;
+          padding-bottom: 0.1rem;
+          line-height: 1.02;
           white-space: nowrap;
           text-align: center;
+          width: auto;
           margin-left: 0;
           margin-bottom: 0;
 
