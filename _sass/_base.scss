@@ -49,7 +49,7 @@ a,
 table.table a {
   color: var(--global-theme-color);
 
-  &:hover { 
+  &:hover {
     color: var(--global-theme-color);
     text-decoration: underline;
   }
@@ -885,50 +885,6 @@ footer.sticky-bottom {
     }
   }
 
-  // Place publication links (arXiv/WEB/PDF/etc.) in a left-side column.
-  ol.bibliography li > .row > div[id] {
-    display: grid;
-    grid-template-columns: 120px 1fr;
-    column-gap: 0.9rem;
-    align-items: start;
-  }
-
-  ol.bibliography li > .row > div[id] .links {
-    grid-column: 1;
-    grid-row: 1;
-    margin-top: 0;
-    display: flex;
-    flex-direction: column;
-    gap: 0.35rem;
-  }
-
-  ol.bibliography li > .row > div[id] .title,
-  ol.bibliography li > .row > div[id] .author,
-  ol.bibliography li > .row > div[id] .periodical,
-  ol.bibliography li > .row > div[id] .badges,
-  ol.bibliography li > .row > div[id] .hidden {
-    grid-column: 2;
-  }
-
-  ol.bibliography li > .row > div[id] .links a.btn {
-    width: 100%;
-    text-align: center;
-  }
-}
-
-@media (max-width: 768px) {
-  .publications ol.bibliography li > .row > div[id] {
-    grid-template-columns: 1fr;
-  }
-
-  .publications ol.bibliography li > .row > div[id] .links,
-  .publications ol.bibliography li > .row > div[id] .title,
-  .publications ol.bibliography li > .row > div[id] .author,
-  .publications ol.bibliography li > .row > div[id] .periodical,
-  .publications ol.bibliography li > .row > div[id] .badges,
-  .publications ol.bibliography li > .row > div[id] .hidden {
-    grid-column: 1;
-  }
 }
 
 // Rouge Color Customization
