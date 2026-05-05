@@ -15,13 +15,15 @@ My current research projects are in the following areas:
 Development of learning and inference methods that integrate power system physics with statistical machine learning to enable reliable topology and state estimation, as well as fault detection.
 
 2. **Machine learning–augmented optimization of power systems**  
-Development of surrogate models, including deep neural networks and Gaussian processes, to enable computationally efficient and feasible solutions for optimal power flow problems.
+Development of surrogate models, including deep neural networks and Gaussian processes, to enable computationally efficient and feasible solutions for optimal power flow and stability problems.
 
 3. **Integration of datacenters in power system operations**  
 Modeling, planning, and operation of data centers to support grid reliability while respecting workload constraints and infrastructure limits.
 
 4. **Coordination of flexible resources at grid edge**  
 Development of scalable coordination algorithms for distributed energy resources, including storage and responsive loads, under operational and user-level constraints.
+
+These research efforts are supported in part by the U.S. Department of Energy, Los Alamos National Laboratory, MIT Energy Initiative (MITEI) member companies, and the GE Vernova–MIT Alliance.
 
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
