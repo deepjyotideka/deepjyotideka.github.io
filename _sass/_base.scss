@@ -806,7 +806,7 @@ footer.sticky-bottom {
         margin-top: 0;
 
         &.links-left {
-          display: flex;
+          display: flex !important;
           flex-direction: column;
           gap: 0.18rem;
           align-items: flex-start;
@@ -814,6 +814,7 @@ footer.sticky-bottom {
         }
 
         a.btn {
+          display: block !important;
           font-size: 0.68rem;
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
@@ -826,7 +827,7 @@ footer.sticky-bottom {
           text-align: center;
           width: auto;
           margin-left: 0;
-          margin-bottom: 0;
+          margin-bottom: 0.18rem;
 
           &:hover {
             color: var(--global-theme-color);
