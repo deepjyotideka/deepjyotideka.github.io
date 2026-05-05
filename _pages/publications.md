@@ -13,8 +13,9 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --group_by type --sort_by year,month --order descending,descending %}
 
 </div>

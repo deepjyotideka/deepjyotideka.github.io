@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: research
 permalink: /research/
 description: current research projects
 nav: true
@@ -9,8 +9,6 @@ horizontal: false
 ---
 
 <!-- pages/projects.md -->
-## Research Areas
-
 My current research projects are in the following areas:
 
 1. **Monitoring and estimation in power grids**  

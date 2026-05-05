@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /collaborators/
-title: Collaborators
+title: collaborators
 description: Current and former collaborations
 nav: true
 nav_order: 6
