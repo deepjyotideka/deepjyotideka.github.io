@@ -805,16 +805,26 @@ footer.sticky-bottom {
       .links {
         margin-top: 0;
 
+        &.links-left {
+          display: grid;
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+          gap: 0.18rem;
+          align-items: start;
+        }
+
         a.btn {
-          font-size: 0.8rem;
+          font-size: 0.72rem;
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
-          padding-left: 0.65rem;
-          padding-right: 0.65rem;
-          padding-top: 0.25rem;
-          padding-bottom: 0.25rem;
+          padding-left: 0.3rem;
+          padding-right: 0.3rem;
+          padding-top: 0.14rem;
+          padding-bottom: 0.14rem;
+          line-height: 1.1;
+          white-space: nowrap;
+          text-align: center;
           margin-left: 0;
-          margin-bottom: 0.35rem;
+          margin-bottom: 0;
 
           &:hover {
             color: var(--global-theme-color);
