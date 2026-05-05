@@ -809,7 +809,8 @@ footer.sticky-bottom {
           display: flex !important;
           flex-direction: column;
           gap: 0.18rem;
-          align-items: flex-start;
+          width: 100%;
+          align-items: flex-end;
           justify-content: flex-start;
         }
 
@@ -828,6 +829,7 @@ footer.sticky-bottom {
           width: auto;
           margin-left: 0;
           margin-bottom: 0.18rem;
+          margin-right: 0;
 
           &:hover {
             color: var(--global-theme-color);
