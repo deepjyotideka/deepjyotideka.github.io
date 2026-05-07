@@ -46,8 +46,8 @@
 
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-10{% else %}col-sm-12{% endif %}">
-    <div class="row">
-      <div class="col-auto pub-links-col">
+    <div class="row pub-entry-row">
+      <div class="pub-links-col">
         <!-- Links/Buttons -->
         <div class="links links-left">
           {% if entry.award %}
@@ -118,7 +118,7 @@
           {% endif %}
         </div>
       </div>
-      <div class="col pub-text-col">
+      <div class="pub-text-col">
     <!-- Title -->
     <div class="title">{{ entry.title }}</div>
     <!-- Author -->
