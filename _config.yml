@@ -246,8 +246,8 @@ scholar:
   group_order: ascending, descending
   sort_by: year, month
   order: descending, descending
-  type_order: [unpublished, article, incollection, inproceedings, techreport]
-  type_names: {unpublished: Pre-Prints, inproceedings: Conference Articles (peer-reviewed)}
+  type_order: [unpublished, article, inproceedings, incollection, techreport]
+  type_names: {unpublished: Pre-Prints, inproceedings: Conference Articles (peer-reviewed), incollection: Book Chapters & Tech Reports}}
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
