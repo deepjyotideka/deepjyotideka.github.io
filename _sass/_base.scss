@@ -771,6 +771,47 @@ footer.sticky-bottom {
         line-height: 1.45;
       }
 
+      .pub-main-col {
+        position: relative;
+        --side-link-width: 3.9rem;
+        --side-link-gap: 0.8rem;
+      }
+
+      .side-link-stack {
+        position: absolute;
+        left: calc(-1 * (var(--side-link-width) + var(--side-link-gap)));
+        top: 0.05rem;
+        display: flex;
+        flex-direction: column;
+        gap: 0.2rem;
+        width: var(--side-link-width);
+      }
+
+      .side-link-stack .side-link-btn {
+        display: block;
+        box-sizing: border-box;
+        font-size: 0.68rem;
+        color: var(--global-text-color);
+        border: 1px solid var(--global-text-color);
+        padding: 0.12rem 0.2rem;
+        line-height: 1.05;
+        text-align: center;
+        width: 100%;
+        margin: 0;
+
+        &:hover {
+          color: var(--global-theme-color);
+          border-color: var(--global-theme-color);
+        }
+      }
+
+      @media (max-width: 768px) {
+        .side-link-stack {
+          position: static;
+          margin-bottom: 0.35rem;
+        }
+      }
+
       .author {
         a {
           border-bottom: 1px dashed var(--global-theme-color);
