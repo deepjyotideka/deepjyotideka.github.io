@@ -729,7 +729,7 @@ footer.sticky-bottom {
     border-top: 1px solid $grey-color-light; 
     padding-top: 1rem;
     margin-top: 2rem;
-    text-align: left;
+    text-align: right;
   }
 
   ol.bibliography {
@@ -769,13 +769,9 @@ footer.sticky-bottom {
       .title {
         font-weight: bolder;
         line-height: 1.45;
-        margin-bottom: 0;
       }
 
       .author {
-        margin-top: 0;
-        margin-bottom: 0;
-
         a {
           border-bottom: 1px dashed var(--global-theme-color);
 
@@ -803,75 +799,33 @@ footer.sticky-bottom {
       }
 
       .links {
-        margin-top: 0;
-
-        &.links-left {
-          display: flex !important;
-          flex-direction: column;
-          gap: 0.18rem;
-          width: 100%;
-          align-items: stretch;
-          justify-content: flex-start;
-        }
+        margin-top: 0.35rem;
 
         a.btn {
-          display: block !important;
-          font-size: 0.68rem;
+          font-size: 0.8rem;
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
-          padding-left: 0.24rem;
-          padding-right: 0.24rem;
-          padding-top: 0.1rem;
-          padding-bottom: 0.1rem;
-          line-height: 1.02;
-          white-space: nowrap;
-          text-align: center;
-          width: 100%;
-          overflow: hidden;
-          text-overflow: ellipsis;
+          padding-left: 0.65rem;
+          padding-right: 0.65rem;
+          padding-top: 0.25rem;
+          padding-bottom: 0.25rem;
           margin-left: 0;
-          margin-bottom: 0.18rem;
-          margin-right: 0;
+          margin-bottom: 0.35rem;
 
           &:hover {
             color: var(--global-theme-color);
             border-color: var(--global-theme-color);
           }
         }
+
+        a.link-size-match {
+          width: 4.35rem;
+          text-align: center;
+        }
+
         a.award.btn {
           border-color: var(--global-highlight-color);
         }
-      }
-
-      .pub-entry-row {
-        display: grid;
-        grid-template-columns: 4.4rem minmax(0, 1fr);
-        --bs-gutter-x: 0;
-        --bs-gutter-y: 0;
-        column-gap: 2.3rem;
-        align-items: start;
-      }
-
-      .pub-entry-row > .pub-links-col,
-      .pub-entry-row > .pub-text-col {
-        padding-left: 0;
-        padding-right: 0;
-        margin-top: 0;
-      }
-
-      .pub-links-col {
-        width: 4.4rem;
-        padding-right: 0;
-      }
-
-      .pub-text-col {
-        padding-left: 0;
-        min-width: 0;
-      }
-
-      .periodical {
-        margin-top: 0;
-        margin-bottom: 0;
       }
 
       .badges {
@@ -936,7 +890,6 @@ footer.sticky-bottom {
       border-color: var(--global-highlight-color);
     }
   }
-
 }
 
 // Rouge Color Customization
