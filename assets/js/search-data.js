@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-collaborators",
-          title: "collaborators",
+          title: "Collaborators",
           description: "Current and former collaborations",
           section: "Navigation",
           handler: () => {
