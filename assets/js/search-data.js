@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-research-group",
-          title: "Research Group",
+        },{id: "nav-group",
+          title: "group",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/collaborators/";
+            window.location.href = "/group/";
           },
         },{id: "news-point-right-open-post-doctoral-position-in-planning-and-stability-studies-for-data-center-loads-point-right-open-post-doctoral-position-in-agentic-ai-workflows-for-power-grids-and-dynamical-systems",
           title: ':point_right: Open Post-doctoral position in planning and stability studies for data-center loads. :point_right:...',
