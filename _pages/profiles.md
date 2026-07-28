@@ -1,10 +1,63 @@
 ---
 layout: page
 permalink: /collaborators/
-title: collaborators
+title: Collaborators
 description: Current and former collaborations
 nav: true
 nav_order: 6
 ---
 
-I have had the pleasure of working and learning from several amazing researchers. Some of my current collaborators are.
+I have had the pleasure of working and learning from several amazing researchers. Some of my current collaborators are:
+
+## Post-doctoral Researchers
+
+- Dr. Shaohui Liu (joint with Prof. <a href="https://cheme.mit.edu/profile/sungho-shin/">Sungho Shin</a>, ChemE)
+
+## Graduate Researchers
+
+- Hindy Rossignol, MBAn
+- Onur Tulu, TPP (joint with Dr. <a href="https://energy.mit.edu/profile/pablo-duenas-martinez/">Pablo Duenas-Martinez</a>, MITEI)
+- Nicolas Tselentis (visiting student, EPFL)
+- Raphael Karmalker (visiting student, RWTH Aachen)
+
+## UROP
+
+- Ellen Wu, Mathematics
+
+## Former Group Members
+
+### MIT
+
+- <a href="https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-tan-bendong/">Dr. Bendong Tan</a>, visiting scientist, 2025
+- Jie Feng, UCSD, 2025 (summer intern)
+
+### Los Alamos National Laboratory
+
+#### Postdocs
+
+- <a href="https://wendy0601.github.io">Dr. Wenting Li</a>, Los Alamos National Laboratory 2020-23
+- <a href="https://ise.vt.edu/people/faculty/kannan.html">Dr. Rohit Kannan</a>, Los Alamos National Laboratory 2021-23
+- <a href="https://iitr.ac.in/Departments/Electrical%20Engineering%20Department/People/Faculty/101078.html">Dr. Parikshit Pareekh</a>, Los Alamos National Laboratory 2022-24
+
+#### Student Interns
+
+- Vincenzo Di Vito, UVA, 2024
+- Aparna Kishore, UVA, 2024
+- Aniruddha Rayas, Arizona State University, 2024
+- Yuqi Zhou, UT Austin, 2023
+- Chandra Kant Jat, KU Leuven, 2023
+- Mishfad Veedu, University of Minnesota, 2022
+- Mohasina Kamal, UC Riverside, 2021
+- Sarthak Gupta, Virginia Tech, 2021
+- Sina Sontowski, 2021
+- Harish Doddi, University of Minnesota, 2019
+- Ali Hassan, NYU, 2019
+- Ilyes Mezghani, CU Leuven, 2019
+- Yize Chen, University of Washington, 2018
+- Wenting Li, RPI, 2018
+- Manuel Garcia, UT Austin, 2018
+- Shaohui Liu, Stony Brook University, 2018
+- Md. Umar Hashmi, INRIA, 2018
+- Siddharth Bhela, Virginia Tech, 2018
+- Sejun Park, KAIST, 2017
+- Saurav Talukdar, University of Minnesota, 2017
