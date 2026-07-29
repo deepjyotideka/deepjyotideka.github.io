@@ -37,8 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/group/";
           },
-        },{id: "news-point-right-open-post-doctoral-position-in-planning-and-stability-studies-for-data-center-loads-point-right-open-post-doctoral-position-in-agentic-ai-workflows-for-power-grids-and-dynamical-systems",
-          title: ':point_right: Open Post-doctoral position in planning and stability studies for data-center loads. :point_right:...',
+        },{id: "news-point-right-open-post-doctoral-position-in-dynamic-modeling-and-stability-studies-for-data-center-loads-point-right-open-post-doctoral-position-in-agentic-ai-workflows-for-surrogate-models-for-power-grids-and-networked-systems-point-right-open-post-doctoral-position-in-machine-learning-and-optimization-in-dsitribution-grids",
+          title: ':point_right: Open Post-doctoral position in dynamic modeling and stability studies for data-center loads....',
           description: "",
           section: "News",},{
       id: 'light-theme',
