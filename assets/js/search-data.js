@@ -10,15 +10,15 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "publications by categories in reversed chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-research",
-          title: "research",
-          description: "current research projects",
+          title: "Research",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-group",
-          title: "group",
+          title: "Group",
           description: "",
           section: "Navigation",
           handler: () => {
