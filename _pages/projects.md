@@ -1,8 +1,8 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
-description: current research projects
+description:
 nav: true
 nav_order: 3
 horizontal: false

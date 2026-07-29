@@ -1,13 +1,11 @@
 ---
 layout: page
 permalink: /group/
-title: group
+title: Group
 description: 
 nav: true
 nav_order: 6
 ---
-
-## Current Collaborators
 
 ### Post-doctoral Researchers
 
@@ -24,33 +22,36 @@ nav_order: 6
 
 - Ellen Wu, Mathematics
 
+<br>
+
 ## Former Collaborators
 
 ### MIT
 
 - <a href="https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-tan-bendong/">Dr. Bendong Tan</a>, visiting scientist, 2025
 - Jie Feng, UCSD, 2025 (summer intern)
+<br>
 
 ### Los Alamos National Laboratory
 
-#### Postdocs
-
+#### Post-doctoral Researchers
+- <a href="https://iitr.ac.in/Departments/Electrical%20Engineering%20Department/People/Faculty/101078.html">Dr. Parikshit Pareekh</a>, 2022-24 (with <a href="https://sidhantmisra.github.io">Sidhant Misra</a>)
+- <a href="https://ise.vt.edu/people/faculty/kannan.html">Dr. Rohit Kannan</a>, 2021-23 (with <a href="https://harshangrjn.github.io/">Harsha Nagarajan</a>)
 - <a href="https://wendy0601.github.io">Dr. Wenting Li</a>, 2020-23
-- <a href="https://ise.vt.edu/people/faculty/kannan.html">Dr. Rohit Kannan</a>, 2021-23
-- <a href="https://iitr.ac.in/Departments/Electrical%20Engineering%20Department/People/Faculty/101078.html">Dr. Parikshit Pareekh</a>, 2022-24
 
 #### Student Interns
-
-- Vincenzo Di Vito, UVA, 2024
+- Vincenzo Di Vito, UVA, 2024 
 - Aparna Kishore, UVA, 2024
 - Aniruddha Rayas, Arizona State University, 2024
 - Yuqi Zhou, UT Austin, 2023
 - Chandra Kant Jat, KU Leuven, 2023
+- Erin George, UCLA, 2022
 - Mishfad Veedu, University of Minnesota, 2022
-- Mohasina Kamal, UC Riverside, 2021
+- Mohasinina Kamal, UC Riverside, 2021
 - Sarthak Gupta, Virginia Tech, 2021
-- Sina Sontowski, 2021
-- Harish Doddi, University of Minnesota, 2019
+- Sina Sontowski, Tennessee Tech University, 2021
+- Mile Mitrovic, Skoltech, 2020
+- Harish Doddi, University of Minnesota, 2019 & 2020
 - Ali Hassan, NYU, 2019
 - Ilyes Mezghani, CU Leuven, 2019
 - Yize Chen, University of Washington, 2018
