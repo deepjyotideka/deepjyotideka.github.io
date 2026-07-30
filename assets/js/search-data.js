@@ -37,7 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/group/";
           },
-        },{id: "news-point-right-open-post-doctoral-position-in-dynamic-modeling-and-stability-studies-for-data-center-loads-point-right-open-post-doctoral-position-in-agentic-ai-for-surrogate-models-in-power-grids-and-networked-systems-point-right-open-post-doctoral-position-in-machine-learning-and-reinforcement-learning-in-dsitribution-grids",
+        },{id: "news-point-right-open-post-doctoral-position-in-dynamic-modeling-and-stability-studies-for-data-center-loads-point-right-open-post-doctoral-position-in-agentic-ai-for-surrogate-models-in-power-grids-and-networked-systems-point-right-open-post-doctoral-position-in-machine-learning-and-reinforcement-learning-in-distribution-grids",
           title: ':point_right: Open Post-doctoral position in dynamic modeling and stability studies for data-center loads....',
           description: "",
           section: "News",},{id: "news-2026-06-10-paper-on-adaptive-voltage-control-under-topology-changes-published-in-epsr-special-issue-on-power-systems-computation-conference-2026-05-15-new-preprint-on-turning-data-centers-into-grid-assets-via-storage-compute-co-optimization-on-arxiv-2026-05-12-new-paper-on-equitable-budget-allocation-for-household-retrofitting-published-in-pnas-nexus",
