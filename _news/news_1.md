@@ -1,0 +1,14 @@
+---
+layout: post
+date: 2026-07-30
+category: paper
+inline: true
+related_posts: false
+show_date: false
+---
+
+**2026-06-10:** Paper on *[adaptive voltage control under topology changes](https://www.sciencedirect.com/science/article/pii/S0378779626009156)* published in EPSR (special issue on Power Systems Computation Conference).
+
+**2026-05-15:** New preprint on *[turning data centers into grid assets via storage-compute co-optimization](https://arxiv.org/abs/2605.16190)* on arXiv.
+
+**2026-05-12:** New paper on *[equitable budget allocation for household retrofitting](https://academic.oup.com/pnasnexus/article/doi/10.1093/pnasnexus/pgag162/8676348)* published in PNAS Nexus.

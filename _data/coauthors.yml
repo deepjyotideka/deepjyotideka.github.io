@@ -53,3 +53,11 @@
 "roald":
   - firstname: ["Line", "L."]
     url: https://engineering.wisc.edu/directory/profile/line-roald/
+
+"shin":
+  - firstname: ["Sungho", "S."]
+    url: https://cheme.mit.edu/profile/sungho-shin/
+
+"zhu":
+  - firstname: ["Hao", "H."]
+    url: https://sites.utexas.edu/haozhu/

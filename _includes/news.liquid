@@ -14,17 +14,34 @@
         {% else %}
           {% assign news_limit = news_size %}
         {% endif %}
-        {% for item in news limit: news_limit %}
-          <tr>
-            <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
-            <td>
-              {% if item.inline %}
-                {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
-              {% else %}
-                <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-              {% endif %}
-            </td>
-          </tr>
+        {% assign shown_news = 0 %}
+        {% for item in news %}
+          {% assign show_item = true %}
+          {% if include.category %}
+            {% if item.category != include.category %}
+              {% assign show_item = false %}
+            {% endif %}
+          {% endif %}
+          {% if include.exclude_category %}
+            {% if item.category == include.exclude_category %}
+              {% assign show_item = false %}
+            {% endif %}
+          {% endif %}
+          {% if show_item %}
+            {% if shown_news < news_limit %}
+              <tr>
+                <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
+                <td>
+                  {% if item.inline %}
+                    {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+                  {% else %}
+                    <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                  {% endif %}
+                </td>
+              </tr>
+              {% assign shown_news = shown_news | plus: 1 %}
+            {% endif %}
+          {% endif %}
         {% endfor %}
       </table>
     </div>
