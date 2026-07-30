@@ -30,7 +30,11 @@
           {% if show_item %}
             {% if shown_news < news_limit %}
               <tr>
-                <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
+                <th scope="row" style="width: 20%">
+                  {% if item.show_date != false %}
+                    {{ item.date | date: '%b %d, %Y' }}
+                  {% endif %}
+                </th>
                 <td>
                   {% if item.inline %}
                     {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
