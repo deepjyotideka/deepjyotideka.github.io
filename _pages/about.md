@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist, <a href='https://energy.mit.edu/'>MIT Energy Initiative</a>. 
+subtitle: Research Scientist, MIT. 
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Building E19, MIT</p>
     <p>Cambridge, MA 02142</p>
-    <p><a href='mailto:deepj87@mit.edu'>email</p>
+    <p><a href='mailto:deepj87@mit.edu'>email</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -23,6 +23,6 @@ announcements:
 
 ---
 
-Welcome! I am a research scientist at MIT Energy Initiative. My research interests lie at the intersection of AI and optimization for secure estimation and operation in renewable rich power grids. Currently, my focus also includes analyzing and mitigating issues related to conecting large loads such as datacenters to the grid. At MIT Energy Initiative, I serve as the Program Manager for the <a href='https://energy.mit.edu/strategic-priorities/data-center-power-demand/'>Data Center Power Forum</a>, a new initiative supported by energy, infrastructure and AI companies that aims to colaesce research in this domain. 
+Welcome! I am a research scientist at <a href='https://energy.mit.edu/'>MIT Energy Initiative</a>. My research interests lie at the intersection of AI and optimization for secure estimation and operation in renewable rich power grids. Currently, my focus also includes analyzing and mitigating issues related to connecting large loads such as datacenters to the grid. At MIT Energy Initiative, I serve as the Program Manager for the <a href='https://energy.mit.edu/strategic-priorities/data-center-power-demand/'>Data Center Power Forum</a>, a new initiative supported by energy, infrastructure and AI companies that aims to coalesce research in this domain.
 
 Previously, I was a Staff Scientist 3 in the <a href='https://www.lanl.gov/engage/organizations/aldsct/theoretical'>Theoretical Division</a> at Los Alamos National Laboratory, a US DOE lab, where I served as a PI/co-PI for projects on physics-informed machine learning in energy systems. I first moved to Los Alamos in November 2015 as a post-doctoral fellow in the <a href='https://cnls.lanl.gov/external/'>Center for Non-Linear Studies (CNLS)</a>, after my PhD in <a href='https://www.ece.utexas.edu/'>Electrical and Computer Engineering</a> at the University of Texas, Austin, Texas, USA. Even earlier, I spent four amazing undergrad years at <a href='https://www.iitg.ac.in/'>IIT Guwahati</a>, India. I am a senior member of IEEE and have served as an editor on IEEE Transactions on Smart Grid.

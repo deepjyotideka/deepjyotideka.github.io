@@ -36,7 +36,7 @@ nav_order: 6
 ### Los Alamos National Laboratory
 
 #### Post-doctoral Researchers
-- <a href="https://iitr.ac.in/Departments/Electrical%20Engineering%20Department/People/Faculty/101078.html">Dr. Parikshit Pareekh</a>, 2022-24 (with <a href="https://sidhantmisra.github.io">Dr. Sidhant Misra</a>)
+- <a href="https://iitr.ac.in/Departments/Electrical%20Engineering%20Department/People/Faculty/101078.html">Dr. Parikshit Pareek</a>, 2022-24 (with <a href="https://sidhantmisra.github.io">Dr. Sidhant Misra</a>)
 - <a href="https://ise.vt.edu/people/faculty/kannan.html">Dr. Rohit Kannan</a>, 2021-23 (with <a href="https://harshangrjn.github.io/">Dr. Harsha Nagarajan</a>)
 - <a href="https://wendy0601.github.io">Dr. Wenting Li</a>, 2020-23
 
