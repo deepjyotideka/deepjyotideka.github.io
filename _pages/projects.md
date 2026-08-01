@@ -16,19 +16,16 @@ Development of learning and inference methods that integrate conservation laws a
 
 Relevant papers:
 - *[Adaptive voltage control under topology changes](https://doi.org/10.1016/j.epsr.2026.113622)*, EPSR, 2026.
-- - *[Tutorial on statistical methods for topology learning](https://doi.org/10.1109/tsg.2023.3271902)*, IEEE Transactions on Smart Grid, 2022.
-- - - *[Learning networks from wide sense stationary processes](https://doi.org/10.1109/tsipn.2025.3583488))*, IEEE Transactions on Signal and Information Processing, 2025.
-
-
+- *[Tutorial on statistical methods for topology learning](https://doi.org/10.1109/tsg.2023.3271902)*, IEEE Transactions on Smart Grid, 2022.
+- *[Learning networks from wide-sense stationary processes](https://doi.org/10.1109/tsipn.2025.3583488)*, IEEE Transactions on Signal and Information Processing, 2025.
 
 2. **Machine learning–augmented optimization of power systems**  
 Development of surrogate models, including deep neural networks and Gaussian processes, to enable computationally efficient and feasible solutions for optimal power flow and stability problems.
 
 Recent papers:
-- *[Gaussian Process for stability-constrained OPF](https://doi.org/10.1016/j.segan.2026.102300)*, EPSR, 2026.
-- - *[Bayesian neural network for optimization with limited labelled data](https://proceedings.mlr.press/v267/pareek25a.html)*, ICML, 2025.
-- - - *[Machine Learning for global optimization of Nonconvex QCQP](https://doi.org/10.1287/ijoc.2023.0424)*, Informs Journal on Computing, 2025.
-
+- *[Gaussian process for stability-constrained OPF](https://doi.org/10.1016/j.segan.2026.102300)*, EPSR, 2026.
+- *[Bayesian neural network for optimization with limited labeled data](https://proceedings.mlr.press/v267/pareek25a.html)*, ICML, 2025.
+- *[Machine learning for global optimization of nonconvex QCQP](https://doi.org/10.1287/ijoc.2023.0424)*, INFORMS Journal on Computing, 2025.
 
 3. **Reliable grid integration of data centers**  
 Modeling, planning, and operation of data centers to support grid reliability while respecting workload constraints and infrastructure limits.
@@ -41,7 +38,7 @@ Development of scalable coordination algorithms for distributed energy resources
 
 Recent papers:
 - *[Coordinated dynamic operating envelopes for flexibility at grid edge](http://arxiv.org/abs/2604.17081)*, arXiv, 2026.
-- - *[Equitable budget allocation for household energy-efficient retrofitting](https://doi.org/10.1093/pnasnexus/pgag162)*, PNAS Nexus, 2026.
+- *[Equitable budget allocation for household energy-efficient retrofitting](https://doi.org/10.1093/pnasnexus/pgag162)*, PNAS Nexus, 2026.
 
 These research efforts are supported in part by the U.S. Department of Energy, Los Alamos National Laboratory, MIT Energy Initiative (MITEI) member companies, and the GE Vernova–MIT Alliance.
 
