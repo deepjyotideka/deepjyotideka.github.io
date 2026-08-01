@@ -14,7 +14,7 @@ My current research projects are in the following areas:
 1. **Monitoring and estimation in power grids and dynamical systems**  
 Development of learning and inference methods that integrate conservation laws and flow physics with statistical machine learning to enable reliable topology and state estimation, as well as fault detection.
 
-Relevant papers:
+Recent papers:
 - *[Adaptive voltage control under topology changes](https://doi.org/10.1016/j.epsr.2026.113622)*, EPSR, 2026.
 - *[Tutorial on statistical methods for topology learning](https://doi.org/10.1109/tsg.2023.3271902)*, IEEE Transactions on Smart Grid, 2022.
 - *[Learning networks from wide-sense stationary processes](https://doi.org/10.1109/tsipn.2025.3583488)*, IEEE Transactions on Signal and Information Processing, 2025.
