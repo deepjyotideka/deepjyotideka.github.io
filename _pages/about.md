@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist, MIT. 
+subtitle: Principal Research Scientist, MIT. 
 
 profile:
   align: right
