@@ -9,18 +9,20 @@ nav_order: 6
 
 ### Post-doctoral Researchers
 
-- Dr. Shaohui Liu (with Prof. <a href="https://cheme.mit.edu/profile/sungho-shin/">Sungho Shin</a>, ChemE)
+- Dr. Jiachen Qian, 2026-
+- Dr. Aditya Rangarajan, 2026-
+- Dr. Guangchun (Grant) Ruan, 2026-
 
 ### Graduate Researchers
-
-- Hindy Rossignol, MBAn
 - Onur Tulu, TPP (with Dr. <a href="https://energy.mit.edu/profile/pablo-duenas-martinez/">Pablo Duenas-Martinez</a>, MITEI)
-- Nicolas Tselentis (visiting student, EPFL)
+- Chiara Brega (visiting student, EPFL)
 - Raphael Karmalker (visiting student, RWTH Aachen)
 
 ### UROP
-
 - Ellen Wu, Mathematics
+
+### Affiliates
+- Shaohui Liu (Amazon, former post-doc)
 
 <br>
 
@@ -28,6 +30,8 @@ nav_order: 6
 
 ### MIT
 
+- Hindy Rossignol, graduate researcher, 2026
+- Nicolas Tselentis, EPFL (masters thesis student), 2026
 - <a href="https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-tan-bendong/">Dr. Bendong Tan</a>, visiting scientist, 2025
 - Jie Feng, UCSD, 2025 (summer intern)
 
@@ -36,8 +40,8 @@ nav_order: 6
 ### Los Alamos National Laboratory
 
 #### Post-doctoral Researchers
-- <a href="https://iitr.ac.in/Departments/Electrical%20Engineering%20Department/People/Faculty/101078.html">Dr. Parikshit Pareek</a>, 2022-24 (with <a href="https://sidhantmisra.github.io">Dr. Sidhant Misra</a>)
-- <a href="https://ise.vt.edu/people/faculty/kannan.html">Dr. Rohit Kannan</a>, 2021-23 (with <a href="https://harshangrjn.github.io/">Dr. Harsha Nagarajan</a>)
+- <a href="https://iitr.ac.in/Departments/Electrical%20Engineering%20Department/People/Faculty/101078.html">Dr. Parikshit Pareek</a>, 2022-24 
+- <a href="https://ise.vt.edu/people/faculty/kannan.html">Dr. Rohit Kannan</a>, 2021-23 
 - <a href="https://wendy0601.github.io">Dr. Wenting Li</a>, 2020-23
 
 #### Student Interns
