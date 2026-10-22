@@ -12,11 +12,13 @@ nav_order: 6
 - Dr. Jiachen Qian, 2026-
 - Dr. Aditya Rangarajan, 2026-
 - Dr. Guangchun (Grant) Ruan, 2026-
+- Dr. Yu Weng, 2026-
 
 ### Graduate Researchers
-- Onur Tulu, TPP (with Dr. <a href="https://energy.mit.edu/profile/pablo-duenas-martinez/">Pablo Duenas-Martinez</a>, MITEI)
 - Chiara Brega (visiting student, EPFL)
-- Raphael Karmalker (visiting student, RWTH Aachen)
+- Ainhoa Vilanova Almagia (visiting student, EPFL) (with Dr. <a href="https://energy.mit.edu/profile/pablo-duenas-martinez/">Pablo Duenas-Martinez</a>, MITEI)
+- Mohamed NUmair (visiting student, KU Lueven)
+- Alexandre Venancio Gouveia (visiting student, KU Lueven)
 
 ### UROP
 - Ellen Wu, Mathematics
@@ -26,11 +28,12 @@ nav_order: 6
 
 <br>
 
-## Former Collaborators
+## Former members
 
 ### MIT
-
-- Hindy Rossignol, graduate researcher, 2026
+- Onur Tulu, MIT TPP graduate researcher, 2026
+- Raphael Karmalker, RWTH Aachen (masters thesis student), 2026
+- Hindy Rossignol, MIT MBAn graduate researcher, 2026
 - Nicolas Tselentis, EPFL (masters thesis student), 2026
 - <a href="https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-tan-bendong/">Dr. Bendong Tan</a>, visiting scientist, 2025
 - Jie Feng, UCSD, 2025 (summer intern)
